@@ -93,6 +93,6 @@
     "ts-node-dev": "^2.0.0"
   },
   "engines": {
-    "node": "14.x"
+    "node": "18.x"
   }
 }
